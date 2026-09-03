@@ -1,2 +1,2 @@
 # lab_3
-this is our introduction on github lab
+## this is our introduction on github lab
