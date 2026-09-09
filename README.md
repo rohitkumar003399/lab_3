@@ -1,5 +1,5 @@
-# lab_3
-## this is our introduction on github lab
+# lab_3 Assignment
+## Introduction to Github and C programming Language
 ### BCS-1D
 **BOLD TEXT**
 ![alt text](https://wallpapercave.com/wp/wc1802079.jpg)
